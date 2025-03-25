@@ -1,0 +1,31 @@
+
+[[main]]
+  name = "📖操作ガイド"
+  url = "/docs/setup/"
+  weight = 10
+
+[[main]]
+  name = "💰料金"
+  url = "/docs/price/"
+  weight = 20
+[[main]]
+  name = "📩問合せ・検索"
+  url = "/others/inquery/"
+  weight = 30
+
+[[footer]]
+  name = "Tags"
+  url = "/tags/"
+  weight = 20
+
+
+[[sidebar_tips]]
+  name = "活用術Tips"
+  pageRef = "/tips"
+  weight = 10
+
+
+[[sidebar_others]]
+  name = "問い合わせ等"
+  pageRef = "/others"
+  weight = 13

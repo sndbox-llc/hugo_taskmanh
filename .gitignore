@@ -1,0 +1,6 @@
+.DS_Store
+resources/
+public/
+themes/relearnbk
+node_modules
+.env
