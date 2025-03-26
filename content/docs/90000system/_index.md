@@ -1,6 +1,6 @@
 +++
-url = "/docs/judge/"
-title = "裁判管理"
+url = "/docs/system/"
+title = "システム概要"
 description = ""
 weight = 90000
 

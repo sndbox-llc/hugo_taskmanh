@@ -1,6 +1,6 @@
 # Hugo
-title = "My Docs"
-description = "Congrats on setting up a new Doks project!"
+title = "クラウド型タスク管理システム"
+description = "クラウド型タスク管理システム"
 images = ["cover.png"]
 
 # mainSections
