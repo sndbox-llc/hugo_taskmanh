@@ -1,7 +1,7 @@
 ---
 url: '/docs/setup/template/'
 title: 'テンプレート'
-menuTitle: 'アカウント作成'
+menuTitle: 'テンプレート'
 description: ''
 toc: true
 weight: 10200

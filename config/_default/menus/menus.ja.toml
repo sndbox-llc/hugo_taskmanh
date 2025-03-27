@@ -9,7 +9,7 @@
   url = "/docs/system/price/"
   weight = 20
 [[main]]
-  name = "📩問合せ・検索"
+  name = "📩問合せ"
   url = "/others/inquery/"
   weight = 30
 
