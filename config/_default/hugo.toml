@@ -1,5 +1,5 @@
 title = "TASKMANager"
-baseurl = "hugo_taskmanh/"
+baseurl = "https://sndbox-llc.github.io/hugo_taskmanh/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true

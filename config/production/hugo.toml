@@ -1,2 +1,3 @@
 # Overrides for production environment
-baseurl = "/hugo_taskmanh/"
+baseurl = "https://sndbox-llc.github.io/hugo_taskmanh/"
+
