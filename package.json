@@ -1,9 +1,14 @@
 {
   "name": "hugo_taskmanh",
   "version": "0.0.0",
-  "description": "Doks theme",
-  "author": "Thulite",
+  "description": "task manager app web site",
+  "author": "sndbox LLC",
   "license": "MIT",
+  "repository": "https://github.com/sndbox-llc/hugo_taskmanh",
+  "publishConfig": {
+    "access": "public"
+  },
+
   "scripts": {
     "exe": "rm -rf public && hugo server",
     "reindex": "rm -rf public && hugo && atomic-algolia",
