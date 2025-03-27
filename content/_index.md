@@ -5,11 +5,11 @@ date = "2023-04-01"
 showPrice = true
 heroTitle = "タスクマネージャ"
 heroSubTitle = "マルチデバイス対応"
-heroText = "シンプルにタスクの管理に特化したクラウド型タスク管理アプリでうs"
+heroText = "シンプルにタスクの管理に特化したクラウド型タスク管理アプリ"
 heroLinks = [
-  { label = "🏭 設備点検チェックシートにも使える", url = "/lp/checksheet/" },
-  { label = "📱 スマホ・タブレット完全対応", url = "/tips/mobile-device/" },
-  { label = "💰️ 圧倒的低価格！無料版もあります", url = "/docs/price/" }
+  { label = "弁護士事務所のタスク管理システム", url = "/lp/checksheet/" },
+  { label = "スマホ・タブレット完全対応", url = "/tips/mobile-device/" },
+  { label = "明瞭な料金体系", url = "/docs/price/" }
 ]
 
 +++
@@ -27,7 +27,8 @@ heroLinks = [
 {{< link-card title="タスク管理とは" description="" href="/docs/template/">}}
 </div>
 <div class="col-lg-9">
-img
+{{<iTablet filename="test" msg="テスト" alice="ok">}}
+
 </div>
 </div>
 </div>

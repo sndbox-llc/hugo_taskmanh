@@ -64,6 +64,7 @@
       "btn-link",
       "btn-outline-warning",
       "btn-primary",
+      "btn-warning",
       "callout",
       "callout-body",
       "callout-caution",
@@ -120,8 +121,10 @@
       "docs-sidebar",
       "docs-toc",
       "doks-sidebar",
+      "edit-page",
       "error404",
       "feather",
+      "feather-edit-2",
       "feather-github",
       "feather-twitter",
       "fixed-bottom-right",
@@ -167,6 +170,7 @@
       "mainContent",
       "mb-3",
       "mb-4",
+      "mb-5",
       "mb-sm-0",
       "me-2",
       "me-auto",
@@ -176,6 +180,7 @@
       "ms-auto",
       "ms-lg-2",
       "mt-4",
+      "mt-5",
       "mt-auto",
       "mt-n3",
       "mx-2",
@@ -248,6 +253,9 @@
       "text-white",
       "theme-docs",
       "toc-mobile",
+      "uTabletContainer",
+      "uedaTabletFrame",
+      "uedaTabletPicture",
       "visually-hidden",
       "w-100",
       "wrap"
@@ -292,7 +300,12 @@
       "幅について",
       "案件からタスクを登録する",
       "案件に紐づいたタスクを表示する",
-      "表示されるタスクをフィルタリングする"
+      "表示されるタスクをフィルタリングする",
+      "１個人情報の取得",
+      "２個人情報の利用目的",
+      "３第三者提供の禁止",
+      "４個人情報の安全管理措置の実施",
+      "５個人情報の開示訂正利用停止等への対応"
     ]
   }
 }
