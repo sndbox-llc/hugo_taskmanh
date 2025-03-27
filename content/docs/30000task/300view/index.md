@@ -1,13 +1,13 @@
-+++
-url = "/docs/task/view/"
-title = "タスクを見る"
-menuTitle = ""
-description = ""
-toc = true
-weight = 30300
-tags = []
-contributors = []
-+++
+---
+url: '/docs/task/view/'
+title: 'タスクを見る'
+menuTitle: ''
+description: ''
+toc: true
+weight: 30300
+tags: []
+contributors: []
+---
 
 登録されているタスクを見るには、左メニュー「タスク管理」をクリックします。
 

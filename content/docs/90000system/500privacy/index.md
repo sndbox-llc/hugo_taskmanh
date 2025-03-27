@@ -1,13 +1,13 @@
-+++
-url = "/docs/system/privacy/"
-title = "プライバシーポリシー"
-menuTitle = ""
-description = ""
-toc = true
-weight = 90500
-tags = []
-contributors = []
-+++
+---
+url: '/docs/system/privacy/'
+title: 'プライバシーポリシー'
+menuTitle: ''
+description: ''
+toc: true
+weight: 90500
+tags: []
+contributors: []
+---
 
 弁護士法人ほたか総合法律事務所（以下「当事務所」といいます。）は、当事務所における個人情報の取扱いに関し、個人情報の保護に関する法律（以下「個人情報保護法」といいます。）その他の関係法令を遵守するとともに、個人情報を慎重に取扱い、適正な管理を行うことにより取得した個人情報の保護に努めます。
 

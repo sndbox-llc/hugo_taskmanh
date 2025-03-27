@@ -1,11 +1,9 @@
-+++
-url = "/docs/"
-title = "ルート"
-description = ""
-weight = 10000
+---
+url: '/docs/'
+title: 'ルート'
+description: ''
+weight: 10000
 
-[sidebar]
-collapsed = true
-+++
-
-ROOOT
+sidebar:
+  collapsed: true
+---

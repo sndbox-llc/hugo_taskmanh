@@ -1,10 +1,9 @@
-+++
-url = "/docs/calendar/"
-title = "カレンダー機能"
-description = ""
-weight = 60000
+---
+url: '/docs/calendar/'
+title: 'カレンダー機能'
+description: ''
+weight: 60000
 
-[sidebar]
-collapsed = true
-
-+++
+sidebar:
+  collapsed: true
+---

@@ -1,10 +1,9 @@
-+++
-url = "/docs/system/"
-title = "システム概要"
-description = ""
-weight = 90000
+---
+url: '/docs/system/'
+title: 'システム概要'
+description: ''
+weight: 90000
 
-[sidebar]
-collapsed = true
-
-+++
+sidebar:
+  collapsed: true
+---

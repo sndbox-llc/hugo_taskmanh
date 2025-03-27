@@ -1,13 +1,13 @@
-+++
-url = "/docs/setup/_about/"
-title = "アカウント作成"
-menuTitle = "アカウント作成"
-description = ""
-toc = true
-weight = 10200
-tags = []
-contributors = []
-+++
+---
+url: '/docs/setup/_about/'
+title: 'アカウント作成'
+menuTitle: 'アカウント作成'
+description: ''
+toc: true
+weight: 10200
+tags: []
+contributors: []
+---
 
 {{< picture src="img/account.webp" alt="" >}}
 

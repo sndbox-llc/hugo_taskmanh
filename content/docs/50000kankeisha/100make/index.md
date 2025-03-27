@@ -1,13 +1,13 @@
-+++
-url = "/docs/kankeisha/make/"
-title = "関係者の作成"
-menuTitle = ""
-description = ""
-toc = true
-weight = 10200
-tags = []
-contributors = []
-+++
+---
+url: '/docs/kankeisha/make/'
+title: '関係者の作成'
+menuTitle: ''
+description: ''
+toc: true
+weight: 10200
+tags: []
+contributors: []
+---
 
 関係者を追加するには、左メニュー「関係者管理」の中にある「＋」ボタンをクリックします
 

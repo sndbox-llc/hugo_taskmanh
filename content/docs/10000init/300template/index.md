@@ -1,13 +1,13 @@
-+++
-url = "/docs/setup/template/"
-title = "テンプレート"
-menuTitle = "アカウント作成"
-description = ""
-toc = true
-weight = 10200
-tags = []
-contributors = []
-+++
+---
+url: '/docs/setup/template/'
+title: 'テンプレート'
+menuTitle: 'アカウント作成'
+description: ''
+toc: true
+weight: 10200
+tags: []
+contributors: []
+---
 
 ひな型とは入力の枠組みのことを指します。本アプリでは入力の枠組みであるひな型を任意にカスタマイズすることが可能です。  
 業務内容に応じて必要な項目を任意に追加できるため、カスタマイズ性がとても高く様々な業種でお使いいただけます。

@@ -1,13 +1,13 @@
-+++
-url = "/docs/setup/tags/"
-title = "タグの管理"
-menuTitle = "タグの管理"
-description = ""
-toc = true
-weight = 10400
-tags = []
-contributors = []
-+++
+---
+url: '/docs/setup/tags/'
+title: 'タグの管理'
+menuTitle: 'タグの管理'
+description: ''
+toc: true
+weight: 10400
+tags: []
+contributors: []
+---
 
 タグは案件やタスク、顧客など様々な情報に取り付けることができます。  
 タグによる絞り込み検索にも利用できます。タグは任意に作成、削除が可能です。

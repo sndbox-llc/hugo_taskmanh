@@ -1,13 +1,13 @@
-+++
-url = "/docs/anken/view/"
-title = "案件を見る"
-menuTitle = ""
-description = ""
-toc = true
-weight = 10200
-tags = []
-contributors = []
-+++
+---
+url: '/docs/anken/view/'
+title: '案件を見る'
+menuTitle: ''
+description: ''
+toc: true
+weight: 10200
+tags: []
+contributors: []
+---
 
 登録されている案件を見るには、左メニュー「案件管理」をクリックします。
 

@@ -1,13 +1,13 @@
-+++
-url = "/docs/calendar/week/"
-title = "週間カレンダー"
-menuTitle = ""
-description = ""
-toc = true
-weight = 60200
-tags = []
-contributors = []
-+++
+---
+url: '/docs/calendar/week/'
+title: '週間カレンダー'
+menuTitle: ''
+description: ''
+toc: true
+weight: 60200
+tags: []
+contributors: []
+---
 
 週間カレンダーは縦軸に日付、横軸に時刻を表示する格子状のカレンダーです。
 

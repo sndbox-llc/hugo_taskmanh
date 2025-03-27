@@ -1,10 +1,9 @@
-+++
-url = "/docs/task/"
-title = "タスク"
-description = ""
-weight = 30000
+---
+url: '/docs/task/'
+title: 'タスク'
+description: ''
+weight: 30000
 
-[sidebar]
-collapsed = true
-
-+++
+sidebar:
+  collapsed: true
+---

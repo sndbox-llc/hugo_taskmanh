@@ -1,18 +1,19 @@
-+++
-title = "TaskManager"
-description = ""
-date = "2023-04-01"
-showPrice = true
-heroTitle = "タスクマネージャ"
-heroSubTitle = "マルチデバイス対応"
-heroText = "シンプルにタスクの管理に特化したクラウド型タスク管理アプリ"
-heroLinks = [
-  { label = "弁護士事務所のタスク管理システム", url = "/lp/checksheet/" },
-  { label = "スマホ・タブレット完全対応", url = "/tips/mobile-device/" },
-  { label = "明瞭な料金体系", url = "/docs/price/" }
-]
-
-+++
+---
+title: 'TaskManager'
+description: ''
+date: '2023-04-01'
+showPrice: true
+heroTitle: 'タスクマネージャ'
+heroSubTitle: 'マルチデバイス対応'
+heroText: 'シンプルにタスクの管理に特化したクラウド型タスク管理アプリ'
+heroLinks:
+  - label: '弁護士事務所のタスク管理システム'
+    url: '/lp/checksheet/'
+  - label: 'スマホ・タブレット完全対応'
+    url: '/tips/mobile-device/'
+  - label: '明瞭な料金体系'
+    url: '/docs/price/'
+---
 
 <!-- ▼自作できる -->
 <div class="container my-5" id="nocode-custom-daily-report">

@@ -1,13 +1,13 @@
-+++
-url = "/docs/anken/make/"
-title = "案件の作成"
-menuTitle = ""
-description = ""
-toc = true
-weight = 10200
-tags = []
-contributors = []
-+++
+---
+url: '/docs/anken/make/'
+title: '案件の作成'
+menuTitle: ''
+description: ''
+toc: true
+weight: 10200
+tags: []
+contributors: []
+---
 
 案件を追加するには、左メニュー「案件管理」の中にある「＋」ボタンをクリックします。
 
