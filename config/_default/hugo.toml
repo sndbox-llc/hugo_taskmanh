@@ -1,5 +1,5 @@
 title = "TASKMANager"
-baseurl = "/"
+baseurl = "https://taskmanh.sndbox.jp/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
