@@ -1,13 +1,13 @@
-+++
-url = "/docs/task/create/"
-title = "タスクの作成"
-menuTitle = ""
-description = ""
-toc = true
-weight = 30200
-tags = []
-contributors = []
-+++
+---
+url: '/docs/task/create/'
+title: 'タスクの作成'
+menuTitle: ''
+description: ''
+toc: true
+weight: 30200
+tags: []
+contributors: []
+---
 
 タスクを追加するには、左メニュー「タスク管理」の中にある「＋」ボタンをクリックします。
 
