@@ -52,3 +52,9 @@ contributors: []
 検索条件は何種類でも保存可能ですが、多すぎると操作性が低下するため、5つ程度に留めておくことを推奨します。
 
 {{< picture src="img/useQuery_tablet.webp" alt="" >}}
+
+## 自動検索の有効・無効について{#autoQuery}
+
+自動検索とは、検索条件を変更したタイミングで自動で再検索を行う機能です。初期値はOFFです。
+
+{{< picture src="img/autoQuery_tablet.webp" alt="" >}}
