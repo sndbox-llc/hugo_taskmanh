@@ -1,9 +1,9 @@
 ---
-title: 'TaskManager'
+title: 'Task Man'
 description: ''
 date: '2023-04-01'
 showPrice: true
-heroTitle: 'タスクマネージャ'
+heroTitle: 'Task Man'
 heroSubTitle: 'マルチデバイス対応'
 heroText: 'シンプルにタスクの管理に特化したクラウド型タスク管理アプリ'
 heroLinks:
