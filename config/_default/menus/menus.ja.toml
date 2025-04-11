@@ -10,7 +10,7 @@
   weight = 20
 [[main]]
   name = "📩問合せ"
-  url = "/others/inquery/"
+  url = "/docs/system/inquery/"
   weight = 30
 
 [[footer]]
