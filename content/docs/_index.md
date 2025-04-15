@@ -1,6 +1,6 @@
 ---
 url: '/docs/'
-title: 'ルート'
+title: 'ホーム'
 description: ''
 weight: 10000
 
