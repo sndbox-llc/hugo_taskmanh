@@ -21,7 +21,7 @@ contributors: []
 
 <dl class="basic">
 <dt>利用開始日</dt>
-<dd>Task Manを利用し始めた日が表示されます</dd>
+<dd>L-Managerを利用し始めた日が表示されます</dd>
 <dt>利用期限</dt>
 <dd>ご利用可能な期限です。期限を過ぎると{{<mock >}}</dd>
 <dt>利用可能人数</dt>
