@@ -4,10 +4,22 @@
   url = "/docs/setup/"
   weight = 10
 
+
 [[main]]
   name = "💰料金"
   url = "/docs/system/price/"
   weight = 20
+[[main]]
+  name = "お知らせ"
+  url = "/blog/"
+  weight = 21
+
+[[main]]
+  name = "逆引き辞典"
+  identifier = "reverse-lookup/about/about"
+  url = "/reverse-lookup/"
+  weight = 26
+
 [[main]]
   name = "📩問合せ"
   url = "/docs/system/inquery/"
