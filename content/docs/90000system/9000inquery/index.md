@@ -46,7 +46,6 @@ Taskmanに興味を持っていただきありがとうございます。
   const errorMessage = document.getElementById("errormessage");
   const iconField = document.getElementById("iconField")
   const EMAIL_REG_EXP = /^[A-Za-z0-9]{1}[A-Za-z0-9_.-]*@{1}[A-Za-z0-9_.-]+.[A-Za-z0-9]+$/;
-  // ラジオボタン（Nipo/NipoPLus)のクリックイベントを監視。選ばれた方のバナーをセットする
 
   // メール送信処理（更新版）
 async function submit() {
@@ -65,10 +64,11 @@ async function submit() {
 
   const config = {
     method: "POST",
-    url: "https://us-central1-nipo-plus.cloudfunctions.net/inqueryWebTaskman",
-    params: {
+    url: "https://us-central1-nipo-plus.cloudfunctions.net/inqueryWebCommon",
+    data: {
       email: email.value,
-      text: `${content.value}\n`
+      text: `${content.value}\n`,
+      site: "taskman"  // ← ここを追加！
     }
   };
 
