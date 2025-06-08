@@ -1,5 +1,5 @@
 title = "L-Manager"
-baseurl = "https://taskmanh.sndbox.jp/"
+baseurl = "/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
