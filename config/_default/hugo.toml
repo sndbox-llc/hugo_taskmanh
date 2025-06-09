@@ -1,5 +1,5 @@
 title = "L-Manager"
-baseurl = "/"
+baseurl = "https://lawmanager.hotaka-g.jp/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
