@@ -15,8 +15,8 @@
   [ja.params]
     languageISO = "JA"
     languageTag = "ja-JP"
-    titleAddition = "TASKMANanger Document"
+    titleAddition = "LawManager Document"
     description = "Task管理アプリ"
-    titleHome = "TASKMANanger"
-    footer = '開発運営:<a href="https://sndbox.jp/">合同会社サンドボックス</a>'
-    alertText = 'Welcome to TASKMANanger'
+    titleHome = "LawManager"
+    footer = '開発運営:<a href="https://home.hotaka-g.jp/">株式会社ほたか</a>'
+    alertText = 'Welcome to LawManager'

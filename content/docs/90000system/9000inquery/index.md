@@ -13,7 +13,7 @@ weight = 99000
 
 <div id="contactForm">
 
-Taskmanに興味を持っていただきありがとうございます。  
+LawManagerに興味を持っていただきありがとうございます。  
 ご不明な点がございましたら、以下のフォームよりお問い合わせください。
 
 - 3営業日以内に返信いたします
@@ -68,7 +68,7 @@ async function submit() {
     data: {
       email: email.value,
       text: `${content.value}\n`,
-      site: "taskman"  // ← ここを追加！
+      site: "taskman"
     }
   };
 

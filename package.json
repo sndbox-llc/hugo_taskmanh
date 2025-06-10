@@ -1,7 +1,7 @@
 {
-  "name": "hugo_taskmanh",
+  "name": "taskman_hugo",
   "version": "0.0.0",
-  "description": "task man app web site",
+  "description": "LawManager公式Webサイト",
   "author": "sndbox LLC",
   "license": "MIT",
   "repository": "https://github.com/sndbox-llc/hugo_taskmanh",

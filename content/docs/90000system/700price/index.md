@@ -46,7 +46,7 @@ contributors: []
 ## 決済後の流れ
 
 入金が確認出来次第、有効期限の延長処理をさせていただきます。  
-新しい有効期限はTaskmanアプリ上からご確認ください。
+新しい有効期限はアプリ上からご確認ください。
 
 {{< picture src="img/newTimelimit_tablet.webp" alt="" >}}
 
