@@ -11,7 +11,7 @@ contributors: []
 
 {{< callout context="note" title="案件・タスク・関係者の一覧表は使い方が同一です" icon="outline/info-circle" />}}
 
-## 一覧表から不要な列を非表示にする
+## 一覧表から不要な列を非表示にする{#hide_columns}
 
 デフォルトでは全ての列が表示されています。項目が多くて視認性が悪く感じた場合は、不要な列を隠す（非表示にする）ことができます。
 
@@ -28,7 +28,7 @@ contributors: []
 
 {{< callout context="note" title="正しく反映されないときは一旦再起動しよう！" icon="outline/info-circle" />}}
 
-## 一覧表の列の並びを変える
+## 一覧表の列の並びを変える{#reorder_columns}
 
 {{< picture src="img/listSort_tablet.webp" alt="" >}}
 
@@ -39,7 +39,7 @@ contributors: []
 3. ドラッグで任意の順に並べ替える
 4. テーブル設定保存をクリック
 
-## 一覧表の列の幅を変更する
+## 一覧表の列の幅を変更する{#resize_columns}
 
 {{< picture src="img/listWidth_tablet.webp" alt="" >}}
 

@@ -13,7 +13,7 @@ contributors: []
 
 {{< picture src="img/anken_tablet.webp" alt="" >}}
 
-## 固定フィールドについて
+## 固定フィールドについて{#fixed_fields_case}
 
 固定フィールドはカスタムひな型とは別に用意されている、カスタム不可能なフィールドです。案件の固定フィールドには以下のような項目があります。
 

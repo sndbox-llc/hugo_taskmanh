@@ -32,6 +32,6 @@ LawManagerで登録されたデータをCSVにダウンロードすることが�
 
 {{</callout>}}
 
-## ダウンロードしたCSVファイルの使い方
+## ダウンロードしたCSVファイルの使い方{#usage_csv}
 
 CSVファイルはExcelやGoogle SpleadSheetを使って開くことが可能です。

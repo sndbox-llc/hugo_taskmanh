@@ -28,7 +28,7 @@ heroLinks:
 {{< link-card title="フォームのカスタム" description="" href="docs/setup/template/">}}
 </div>
 <div class="col-lg-9">
-{{<iTablet filename="test" msg="テスト" alice="ok">}}
+{{<iTablet filename="test" msg="タスクの作成" alice="ok">}}
 
 </div>
 </div>

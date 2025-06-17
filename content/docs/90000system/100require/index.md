@@ -9,7 +9,7 @@ tags: []
 contributors: []
 ---
 
-## PCの推奨環境
+## PCの推奨環境{#require_pc}
 
 <dl class="basic">
 <dt>モニタサイズ</dt>
@@ -20,7 +20,7 @@ contributors: []
 <dd>インターネット環境が必須です。一部メールを送る機能があるため、メールソフトがインストールされている必要があります（無いとメール送信機能が使えません）</dd>
 </dl>
 
-## スマートフォンの推奨環境
+## スマートフォンの推奨環境{#require_mobile}
 
 <dl class="basic">
 <dt>モニタサイズ</dt>

@@ -13,7 +13,7 @@ contributors: []
 
 {{< picture src="img/customer_tablet.webp" alt="" >}}
 
-## 固定フィールドについて
+## 固定フィールドについて{#fixed_fields_customer}
 
 固定フィールドはカスタムひな型とは別に用意されている、カスタム不可能なフィールドです。関係者の固定フィールドには以下の項目があります
 
