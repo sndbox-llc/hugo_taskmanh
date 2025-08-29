@@ -1,6 +1,6 @@
 +++
 # url = "/reverse-lookup/other/defaultgroup/"
-# aliases = []
+
 title = "よく使う検索を保存したい"
 menuTitle = "よく使う検索を保存したい"
 description = ""

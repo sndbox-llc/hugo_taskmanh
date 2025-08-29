@@ -1,6 +1,6 @@
 +++
 url = "/reverse-lookup/common/"
-# aliases = []
+
 title = "その他の逆引きガイド"
 menuTitle = "タスクに関する機能"
 description = "逆引きアーカイブ（その他の記事）"
