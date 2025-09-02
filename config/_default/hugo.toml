@@ -1,6 +1,5 @@
 title = "LawManager"
 baseurl = "https://lawmanager.hotaka-g.jp/"
-canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
 # disableKinds = ["taxonomy", "term"]
@@ -8,7 +7,6 @@ enableEmoji = true
 enableGitInfo = false
 enableRobotsTXT = true
 languageCode = "ja-JP"
-pagerSize = 50
 rssLimit = 50
 summarylength = 70 # 70 (default)
 
@@ -63,6 +61,9 @@ copyRight = "Copyright (c) 2020-2024 hotaka-g.com"
 
 [minify.tdewolff.html]
   keepWhitespace = false
+
+[pagination]
+  pagerSize = 50
 
 [related]
   threshold = 80
