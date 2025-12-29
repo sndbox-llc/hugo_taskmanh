@@ -1,15 +1,14 @@
-+++
-url = "/docs/system/inquery/"
+---
+url: "/docs/system/inquery/"
+title: "お問い合わせ"
+description: ""
+toc: false
+weight: 99000
 
-title = "お問い合わせ"
-description = ""
-toc = false
-weight = 99000
-
-[sitemap]
-  changefreq = "yearly"
-  priority = 0.9
-+++
+sitemap:
+  changefreq: "yearly"
+  priority: 0.9
+---
 
 <div id="contactForm">
 

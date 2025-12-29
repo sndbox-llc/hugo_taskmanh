@@ -1,16 +1,15 @@
-+++
-# url = "/reverse-lookup/other/defaultgroup/"
-
-title = "カレンダーから手軽にタスクを追加したい"
-menuTitle = "カレンダーから手軽にタスクを追加したい"
-description = ""
-toc = false
-isDictionaly = true
-weight = 9100
-date = "2025-04-03"
-tags = []
-contributors = []
-+++
+---
+# url: "/reverse-lookup/other/defaultgroup/"
+title: "カレンダーから手軽にタスクを追加したい"
+menuTitle: "カレンダーから手軽にタスクを追加したい"
+description: ""
+toc: false
+isDictionaly: true
+weight: 9100
+date: "2025-04-03"
+tags: []
+contributors: []
+---
 
 週間カレンダー・人カレンダーではドラッグ操作で手軽に予定の追加ができます。
 

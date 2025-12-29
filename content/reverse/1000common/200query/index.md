@@ -1,16 +1,14 @@
-+++
-# url = "/reverse-lookup/other/defaultgroup/"
-
-title = "よく使う検索を保存したい"
-menuTitle = "よく使う検索を保存したい"
-description = ""
-toc = false
-isDictionaly = true
-weight = 9100
-date = "2025-04-03"
-tags = ["アカウント設定"]
-contributors = []
-+++
+---
+title: "よく使う検索を保存したい"
+menuTitle: "よく使う検索を保存したい"
+description: ""
+toc: false
+isDictionaly: true
+weight: 9100
+date: "2025-04-03"
+tags: ["アカウント設定"]
+contributors: []
+---
 
 LawManagerには様々な検索オプションを指定できますが、日常業務で使用する検索は大体、同じであることが多いです。  
 例えば業務開始時に、「自分に割り当てられたタスクで未完了のものだけを探す」ということを毎朝指定するのは面倒です。  

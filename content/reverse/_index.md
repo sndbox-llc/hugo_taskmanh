@@ -1,10 +1,10 @@
-+++
-url = "reverse-lookup"
-title = "逆引き"
-description = "逆引きアーカイブ"
-date = "2024-10-03"
-weight = 1
-+++
+---
+url: "reverse-lookup"
+title: "逆引き"
+description: "逆引きアーカイブ"
+date: "2024-10-03"
+weight: 1
+---
 
 ## 「やりたいこと」に着目した逆引きスタイルの記事です{#sample}
 
