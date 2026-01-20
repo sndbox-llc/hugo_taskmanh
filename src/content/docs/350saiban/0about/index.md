@@ -11,7 +11,7 @@ sidebar:
 
 裁判管理は主に弁護士事務所向けの機能となっております。本機能を有効にするには、設定から「裁判機能を有効にする」をONにします。
 
-![](./enableJudge_tablet.webp)
+![](./img/enableJudge_tablet.webp)
 
 ## 裁判管理とは？ {#what_is_case_management}
 
