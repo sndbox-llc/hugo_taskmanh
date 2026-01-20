@@ -11,8 +11,7 @@ import starlightLinksValidator from 'starlight-links-validator'
 const isProd = process.env.NODE_ENV === 'production'
 
 export default defineConfig({
-  // site: 'https://lawmanager.hotaka-g.jp',
-  site: 'https://nipo-plus-doc.sndbox.jp',
+  site: 'https://lawmanager.hotaka-g.jp/',
   // プリフェッチ設定を有効化
   prefetch: {
     prefetchAll: true,
