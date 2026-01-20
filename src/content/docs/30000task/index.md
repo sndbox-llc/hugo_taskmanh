@@ -1,11 +1,9 @@
 ---
 slug: docs/task
-title: "タスク"
-description: ""
-weight: 30000
-
+title: タスク
+description: ''
 sidebar:
-  collapsed: true
+  label: タスク
 ---
 
 ## タスクとは？ {#what_is_task}

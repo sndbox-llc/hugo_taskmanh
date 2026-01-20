@@ -1,11 +1,7 @@
 ---
 slug: docs/kankeisha
-title: "関係者"
-description: ""
-weight: 50000
-
+title: 関係者管理
+description: ''
 sidebar:
-  collapsed: true
+  label: 関係者管理概要
 ---
-
-管理は主に弁護士事務所向けの機能となっております

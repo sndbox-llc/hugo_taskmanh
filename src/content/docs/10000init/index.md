@@ -1,11 +1,9 @@
 ---
 slug: docs/setup
-title: "初期設定"
-description: ""
-weight: 10000
-
+title: '初期設定'
+description: ''
 sidebar:
-  collapsed: true
+  label: 初期設定
 ---
 
 L-Managerは完全クラウド型のタスク管理システムです。  

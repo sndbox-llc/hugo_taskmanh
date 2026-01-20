@@ -1,11 +1,10 @@
 ---
 slug: docs/anken
-title: "案件"
-description: ""
+title:
+description: ''
 weight: 40000
-
 sidebar:
-  collapsed: true
+  label: 案件
 ---
 
 ## 案件とは？ {#what_is_case}

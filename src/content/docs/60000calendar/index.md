@@ -1,11 +1,9 @@
 ---
 slug: docs/calendar
-title: "カレンダー機能"
-description: ""
-weight: 60000
-
+title: カレンダー機能
+description: ''
 sidebar:
-  collapsed: true
+  label: カレンダー機能
 ---
 
 登録されたタスクの期日を基準として、カレンダー上にマッピングして表示します。

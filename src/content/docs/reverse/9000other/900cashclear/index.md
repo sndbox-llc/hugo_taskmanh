@@ -1,13 +1,7 @@
 ---
 slug: reverse-lookup/other/cashclear
-title: "アプリの動作がおかしいとき⚡️"
-description: ""
-isDictionaly: true
-toc: false
-weight: 9900
-date: "2024-10-03"
-tags: ["アカウント設定"]
-contributors: []
+title: 'アプリの動作がおかしいとき⚡️'
+description: ''
 ---
 
 ## テンプレートが反映されない場合など不具合があったときはキャッシュをクリアしてください {#require_cach_clear}

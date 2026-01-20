@@ -1,11 +1,9 @@
 ---
 slug: docs/task/add
-title: "タスク登録"
-description: ""
-weight: 31000
-
+title: タスク登録
+description: ''
 sidebar:
-  collapsed: true
+  label: タスク登録
 ---
 
 ## タスクとは？ {#what_is_task}
