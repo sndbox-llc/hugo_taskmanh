@@ -1,9 +1,9 @@
 ---
 slug: docs/calendar/week
 title: 週間カレンダー
-description: ""
+description: ''
 sidebar:
-  label: 関係者を見る
+  label: 週間カレンダー
 ---
 
 週間カレンダーは縦軸に日付、横軸に時刻を表示する格子状のカレンダーです。

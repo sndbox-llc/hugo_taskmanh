@@ -57,9 +57,9 @@ export default defineConfig({
                 items: [
                   // ここにサブアイテムを追加
                   { slug: 'docs/setup' },
-                  { slug: 'docs/setup/_about' },
-                  { slug: 'docs/setup/template' },
                   { slug: 'docs/setup/tags' },
+
+                  { slug: 'docs/setup/template' },
                 ],
               },
               {
