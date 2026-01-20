@@ -1,37 +1,31 @@
 {
-  "name": "taskman_hugo",
-  "version": "0.0.0",
-  "description": "LawManager公式Webサイト",
-  "author": "sndbox LLC",
-  "license": "MIT",
-  "repository": "https://github.com/sndbox-llc/hugo_taskmanh",
-  "publishConfig": {
-    "access": "public"
-  },
-
+  "name": "nipoplus-doc",
+  "type": "module",
+  "version": "0.0.1",
   "scripts": {
-    "create": "hugo new",
-    "dev": "hugo server --disableFastRender --noHTTPCache",
-    "format": "prettier **/** -w -c",
-    "build": "hugo --minify --gc",
-    "preview": "vite preview --outDir public"
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
   },
   "dependencies": {
-    "@thulite/doks-core": "^1.8.3",
-    "@thulite/images": "^3.3.1",
-    "@thulite/inline-svg": "^1.2.0",
-    "@thulite/seo": "^2.4.1",
-    "@tabler/icons": "^3.34.1",
-    "thulite": "^2.6.3"
+    "@astrojs/sitemap": "^3.7.0",
+    "@astrojs/starlight": "^0.37.3",
+    "astro": "^5.16.11",
+    "rehype-figure": "^1.0.1",
+    "remark-heading-id": "^1.0.1",
+    "sharp": "^0.34.5",
+    "starlight-image-zoom": "^0.13.2",
+    "starlight-links-validator": "^0.19.2",
+    "starlight-sidebar-topics": "^0.6.2"
   },
   "devDependencies": {
-    "@changesets/changelog-github": "^0.5.1",
-    "@changesets/cli": "^2.29.5",
-    "prettier": "^3.6.2",
-    "vite": "^7.0.6"
-  },
-
-  "engines": {
-    "node": ">=22.0.0"
+    "@types/remark-heading-id": "^1.0.0",
+    "prettier": "^3.7.4",
+    "prettier-plugin-astro": "^0.14.1",
+    "sass-embedded": "^1.97.2"
   }
 }
