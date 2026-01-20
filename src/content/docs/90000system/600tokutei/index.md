@@ -14,11 +14,11 @@ sidebar:
   <dt>電話番号</dt>
   <dd>028-637-1861  （お問い合わせにはつぎのお問い合わせ先をご利用下さい）</dd>
   <dt>お問い合わせ先</dt>
-  <dd><a href="/others/inquery/">問い合わせフォームはこちらです</a></dd>
+  <dd><a href="/docs/system/inquery/">問い合わせフォームはこちらです</a></dd>
   <dt>送料</dt>
   <dd>掛かりません</dd>
   <dt>商品代金以外に必要な費用</dt>
-  <dd><a href="/docs/price/invoice/#feeInvoice">口座振込み</a>の場合、手数料はお客様ご負担をお願いします。</dd>
+  <dd><a href="/docs/system/price/">口座振込み</a>の場合、手数料はお客様ご負担をお願いします。</dd>
   <dt>代金の支払時期及び方法【口座振込】</dt>
   <dd>請求書発送後、請求書に記載されている支払い期限までにお支払い下さい。</dd>
   <dt>商品の受け渡し時期及び方法</dt>

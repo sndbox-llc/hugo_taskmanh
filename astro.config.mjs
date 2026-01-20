@@ -154,6 +154,8 @@ export default defineConfig({
               //
               { slug: 'reverse-lookup/other/defaultgroup' },
               { slug: 'reverse-lookup/other/save' },
+              { slug: 'reverse-lookup/other/save' },
+              { slug: 'reverse-lookup/other/cashclear' }
             ],
           },
         ]),
