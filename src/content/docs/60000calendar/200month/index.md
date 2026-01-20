@@ -1,10 +1,10 @@
 ---
 slug: docs/calendar/month
 title: 月間カレンダー
-description: ""
+description: ''
 
 sidebar:
-  label: 月間カレンダー
+  label: 🗓️月間カレンダー
 ---
 
 ![](./img/month_tablet.webp)

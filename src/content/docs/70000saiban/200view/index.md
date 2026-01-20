@@ -1,9 +1,12 @@
 ---
 slug: docs/judge/view
 title: 裁判を見る
-description: ""
+description: ''
 sidebar:
   label: 裁判を見る
+  badge:
+    text: 弁護士
+    variant: tip
 ---
 
 登録されている裁判を見るには、左メニュー「裁判管理」をクリックします。

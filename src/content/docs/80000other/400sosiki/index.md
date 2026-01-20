@@ -1,9 +1,9 @@
 ---
 slug: docs/other/org
 title: 組織情報
-description: ""
+description: ''
 sidebar:
-  label: 組織情報
+  label: 🏢組織情報
 ---
 
 :::note[管理者権限が必要です]

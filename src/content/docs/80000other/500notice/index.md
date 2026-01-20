@@ -1,9 +1,9 @@
 ---
 slug: docs/other/notice
 title: 通知機能
-description: ""
+description: ''
 sidebar:
-  label: 組織情報
+  label: 🔔通知機能
 ---
 
 自身のアカウントに関連のあるアクティビティが発生すると、画面右上の通知に表示されます。クリックで現在の通知を見ることができます。

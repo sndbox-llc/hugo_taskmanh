@@ -1,9 +1,9 @@
 ---
 slug: docs/judge
 title: 裁判管理
-description: ""
+description: ''
 sidebar:
-  label: 裁判管理
+  label: ⚖️裁判管理
   badge:
     text: 弁護士
     variant: tip

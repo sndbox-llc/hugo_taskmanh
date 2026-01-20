@@ -1,9 +1,9 @@
 ---
 slug: docs/system/security
 title: セキュリティ対策
-description: ""
+description: ''
 sidebar:
-  label: セキュリティ対策
+  label: 🛡️セキュリティ対策
 ---
 
 ## 暗号化 {#encryption}

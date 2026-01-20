@@ -1,9 +1,9 @@
 ---
 slug: docs/other/files
 title: ファイル添付
-description: ""
+description: ''
 sidebar:
-  label: ファイル添付
+  label: 📁ファイル添付
 ---
 
 案件、タスク、関係者それぞれ個別のデータには、全て「ファイル添付」機能が備わっています。

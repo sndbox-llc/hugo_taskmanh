@@ -115,9 +115,10 @@ export default defineConfig({
               },
               {
                 label: '詳細リファレンス',
+                collapsed: true,
+
                 items: [
                   //
-                  { slug: 'docs/other' },
                   { slug: 'docs/other/tablesettings' },
                   { slug: 'docs/other/search' },
                   { slug: 'docs/other/account' },
@@ -130,9 +131,10 @@ export default defineConfig({
               },
               {
                 label: 'システム概要',
+                collapsed: true,
+
                 items: [
                   //
-                  { slug: 'docs/system' },
                   { slug: 'docs/system/hard' },
                   { slug: 'docs/system/release-note' },
                   { slug: 'docs/system/security' },
@@ -141,7 +143,6 @@ export default defineConfig({
                   { slug: 'docs/system/tokutei' },
                   { slug: 'docs/system/price' },
                   { slug: 'docs/system/credit' },
-                  { slug: 'docs/system/inquery' },
                 ],
               },
             ],
@@ -154,8 +155,7 @@ export default defineConfig({
               //
               { slug: 'reverse-lookup/other/defaultgroup' },
               { slug: 'reverse-lookup/other/save' },
-              { slug: 'reverse-lookup/other/save' },
-              { slug: 'reverse-lookup/other/cashclear' }
+              { slug: 'reverse-lookup/other/cashclear' },
             ],
           },
         ]),

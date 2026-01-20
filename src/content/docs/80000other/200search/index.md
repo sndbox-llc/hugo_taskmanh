@@ -1,9 +1,9 @@
 ---
 slug: docs/other/search
 title: 検索する
-description: ""
+description: ''
 sidebar:
-  label: 検索する
+  label: 🔍検索する
 ---
 
 :::note[案件・タスク・関係者の一覧表は使い方が同一です]

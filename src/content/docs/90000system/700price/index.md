@@ -2,7 +2,7 @@
 slug: docs/system/price
 title: ご利用料金
 sidebar:
-  label: ご利用料金
+  label: 💳ご利用料金
 ---
 
 ## Sプラン {#plan_s}

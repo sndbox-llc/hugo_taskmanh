@@ -1,9 +1,9 @@
 ---
 slug: docs/task/create
 title: タスクの作成
-description: ""
+description: ''
 sidebar:
-  label: タスクの作成
+  label: ✅タスクの作成
 ---
 
 タスクを追加するには、左メニュー「タスク管理」の中にある「＋」ボタンをクリックします。

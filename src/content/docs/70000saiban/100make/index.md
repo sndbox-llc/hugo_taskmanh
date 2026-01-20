@@ -1,9 +1,12 @@
 ---
 slug: docs/judge/make
 title: 裁判の作成
-description: ""
+description: ''
 sidebar:
   label: 裁判の作成
+  badge:
+    text: 弁護士
+    variant: tip
 ---
 
 ## 裁判記録の作成 {#create_case_record}
