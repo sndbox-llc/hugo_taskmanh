@@ -170,7 +170,7 @@ export default defineConfig({
         {
           icon: 'github',
           label: 'GitHub',
-          href: 'https://github.com/sndbox-llc/astoro_nipoplus',
+          href: 'https://github.com/sndbox-llc/hugo_taskmanh',
         },
       ],
     }),
