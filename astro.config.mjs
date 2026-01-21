@@ -71,7 +71,29 @@ export default defineConfig({
                   { slug: 'docs/task/view' },
                   {
                     label: 'タスク登録',
-                    items: [{ slug: 'docs/task/add/step1' }, { slug: 'docs/task/add/step2' }, { slug: 'docs/task/add/step3' }, { slug: 'docs/task/add/step4' }, { slug: 'docs/task/add/step5' }, { slug: 'docs/task/add/step6' }, { slug: 'docs/task/add/step7' }, { slug: 'docs/task/add/step8' }, { slug: 'docs/task/add/step9' }, { slug: 'docs/task/add/step10' }],
+                    items: [
+                      //
+                      { slug: 'docs/task/add/step1' },
+                      { slug: 'docs/task/add/step2' },
+                      { slug: 'docs/task/add/step3' },
+                      { slug: 'docs/task/add/step4' },
+                      { slug: 'docs/task/add/step5' },
+                      { slug: 'docs/task/add/step6' },
+                      { slug: 'docs/task/add/step7' },
+                      { slug: 'docs/task/add/step8' },
+                      { slug: 'docs/task/add/step9' },
+                      { slug: 'docs/task/add/step10' },
+                    ],
+                  },
+                  {
+                    label: 'タスク編集',
+                    items: [
+                      //
+                      { slug: 'docs/task/edit/step1' },
+                      { slug: 'docs/task/edit/step2' },
+                      { slug: 'docs/task/edit/step3' },
+                      { slug: 'docs/task/edit/step4' },
+                    ],
                   },
                 ],
               },
@@ -119,6 +141,8 @@ export default defineConfig({
                 items: [
                   //
                   { slug: 'docs/other/tablesettings' },
+                  { slug: 'docs/other/status' },
+                  { slug: 'docs/other/resp' },
                   { slug: 'docs/other/search' },
                   { slug: 'docs/other/account' },
                   { slug: 'docs/other/org' },
