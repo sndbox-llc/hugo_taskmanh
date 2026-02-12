@@ -1,7 +1,7 @@
 ---
 slug: docs/system/hard
 title: 動作環境
-description: ""
+description: ''
 sidebar:
   label: 動作環境
 ---
@@ -27,5 +27,5 @@ sidebar:
 <dt>OS</dt>
 <dd>iOSのバージョンは16.4以上を推奨（PWA機能のため）・Androidは2018年以降の端末であること</dd>
 <dt>その他</dt>
-<dd>インターネット環境が必須です。</dd>
+<dd>インターネット環境が必須です</dd>
 </dl>

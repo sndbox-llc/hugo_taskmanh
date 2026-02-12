@@ -14,12 +14,12 @@ sidebar:
 カレンダーは次の３種類があり、ボタン一つで簡単に切り替えが可能です。
 
 <dl class="basic">
-<dt><a href="/docs/calendar/user/">ユーザカレンダー</a></dt>
+<dt><a href="/docs/calendar/user">ユーザカレンダー</a></dt>
 <dd>スタッフ毎に予定を確認できるモードです。複数のスタッフを並べて比較することもできます</dd>
-<dt><a href="/docs/calendar/month/">月間カレンダー</a></dt>
+<dt><a href="/docs/calendar/month">月間カレンダー</a></dt>
 <dd>１ヶ月単位で予定を表示します。細かい時間までは把握できません。一ヶ月の状況を俯瞰する際におすすめです</dd>
-<dt><a href="/docs/calendar/week/">週間カレンダー</a></dt>
-<dd>任意の期間を選択して表示できます。縦軸に日、横軸に時間の格子状の予定表です。</dd>
+<dt><a href="/docs/calendar/week">週間カレンダー</a></dt>
+<dd>任意の期間を選択して表示できます。縦軸に日、横軸に時間の格子状の予定表です</dd>
 </dl>
 
 ![](./img/calendarAbout_tablet.webp)
